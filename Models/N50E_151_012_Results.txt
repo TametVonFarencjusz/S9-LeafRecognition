@@ -1,0 +1,7 @@
+counter = 471
+correct = 421
+wrong = 50
+correct_leaf = 452
+wrong_leaf = 19
+Acc: 89.38%
+Leaf Acc: 95.97%

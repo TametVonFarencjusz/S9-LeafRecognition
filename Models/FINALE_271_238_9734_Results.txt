@@ -1,0 +1,14 @@
+counter = 471
+correct = 435
+wrong = 36
+correct_leaf = 466
+wrong_leaf = 5
+Acc: 92.36%
+Leaf Acc: 98.94%
+counter = 471
+correct = 435
+wrong = 36
+correct_leaf = 466
+wrong_leaf = 5
+Acc: 92.36%
+Leaf Acc: 98.94%
